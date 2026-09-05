@@ -1,4 +1,6 @@
 # Ex No: 01 - Design & Implementation of CMOS Inverter Design Using Cadence EDA Tools
+## NAME: RAKSHANA R
+## REG NO: 212225060218
 
 ## Aim
 The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools, assess its key electrical properties, and explore foundational CMOS principles, including the design workflow and simulation approaches.
